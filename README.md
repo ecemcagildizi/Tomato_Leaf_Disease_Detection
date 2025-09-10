@@ -1,4 +1,4 @@
-#Tomato Leaf Disease Detection with CNN & Transfer Learning  
+##Tomato Leaf Disease Detection with CNN & Transfer Learning  
 
 ## Project Description  
 This project focuses on developing a model that predicts whether tomato leaves are healthy or diseased based on their images. To achieve this, a **CNN-based Transfer Learning model, MobileNetV2**, was employed. The dataset was obtained from **Kaggle** and contains a total of **23,304 image samples**.  
